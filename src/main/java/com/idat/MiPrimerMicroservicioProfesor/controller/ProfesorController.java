@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.idat.MiPrimerMicroservicioProfesor.modelo.Profesor;
 import com.idat.MiPrimerMicroservicioProfesor.servicio.ProfesorService;
-
+//nuevo
 @Controller
 @RequestMapping("/api/v1/profesor")
 public class ProfesorController {
